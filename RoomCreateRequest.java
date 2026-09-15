@@ -1,4 +1,4 @@
 package com.dsu.helloserver;
 
-public class RoomCreateRequest {
+public class RoomCreateRequest(String name, int capacity) {
 }
